@@ -5,7 +5,7 @@ Small python program to solve the word hunt game
 Run the .py file and when it asks for a prompt, enter your word hunt grid.
 <br>
 <img width="350" alt="5x5 board" src="https://github.com/milan-panta/word-hunt-solver/assets/106028082/01658be6-c3f0-4800-86f0-65a0f9d04845">
-</br>
+<br>
 For the grid above, I would put in <mark>amrmeundititoeoa</mark>.
 
 Next, it asks for the number of rows. In this example, I would put 4.
