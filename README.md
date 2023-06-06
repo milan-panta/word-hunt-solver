@@ -3,6 +3,7 @@ Small python program to solve the word hunt game
 
 ## How to use
 Run the .py file and when it asks for a prompt, enter your word hunt grid.
+<br>
 <img width="350" alt="5x5 board" src="https://github.com/milan-panta/word-hunt-solver/assets/106028082/01658be6-c3f0-4800-86f0-65a0f9d04845">
 </br>
 For the grid above, I would put in <mark>amrmeundititoeoa</mark>.
