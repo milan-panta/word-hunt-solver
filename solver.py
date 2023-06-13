@@ -23,13 +23,6 @@ class Trie(object):
 
         node.is_end = True
 
-    def dfs(self, node, prefix):
-        if node.is_end:
-            self.output.append(prefix + node.char)
-
-        for child in node.children.values():
-            self.dfs(child, prefix + node.char)
-
 
 f = open("word_list.txt", "r")
 
